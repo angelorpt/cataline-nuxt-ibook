@@ -1,14 +1,14 @@
 <template>
   <div class="ibook-layout">
-    <!-- header -->
+    <Header />
     <Container>
       <Nuxt />
     </Container>
-    <!-- footer -->
+    <Footer />
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .ibook-layout {
   margin-top: 4.313rem;
   display: grid;
