@@ -3,15 +3,15 @@
     <nav>
       <ul class="items">
         <li class="item">
-          <Nuxtlink to="/">
+          <NuxtLink to="/">
             <Logo />
-          </Nuxtlink>
+          </NuxtLink>
         </li>
         <li class="item">
-          <Nuxtlink to="/home">Home</Nuxtlink>
+          <NuxtLink to="/home">Home</NuxtLink>
         </li>
         <li class="item">
-          <Nuxtlink to="/about">Sobre</Nuxtlink>
+          <NuxtLink to="/about">Sobre</NuxtLink>
         </li>
       </ul>
     </nav>

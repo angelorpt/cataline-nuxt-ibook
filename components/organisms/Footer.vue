@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="footer">
     <Container>
       <Logo />
       <p>Copyright &copy; {{ currentYear }} iBook</p>

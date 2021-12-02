@@ -1,5 +1,7 @@
 <template>
-  <container class="box"> asdf </container>
+  <div>
+    <AboutTemplate />
+  </div>
 </template>
 
 <script lang="ts">
