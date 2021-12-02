@@ -1,5 +1,5 @@
 <template>
-  <container class="box"> asdf </container>
+  <HomeTemplate />
 </template>
 
 <script lang="ts">
